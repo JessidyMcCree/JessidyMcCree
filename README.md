@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,55:14532d,100:22c55e&text=J%C3%A9ssica%20Soares&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Games%20Development%20%C2%B7%20IADE&descSize=18&descAlignY=58&animation=fadeIn" alt="Jéssica Soares banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,55:1e3a8a,100:2563eb&text=J%C3%A9ssica%20Soares&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Games%20Development%20%C2%B7%20IADE&descSize=18&descAlignY=58&animation=fadeIn" alt="Jéssica Soares banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=4ADE80&center=true&vCenter=true&width=560&height=40&lines=Games+Development+student+%40+IADE;Unity+%C2%B7+Full+Stack+Development;Learning%2C+building%2C+shipping+%F0%9F%8C%B1" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=560&height=40&lines=Games+Development+student+%40+IADE;Unity+%C2%B7+Full+Stack+Development;Learning%2C+building%2C+shipping+%E2%9C%A8" alt="Typing animation" />
 </a>
 
 <br/>
 
-![Unity](https://img.shields.io/badge/Unity-111827?style=for-the-badge\&logo=unity\&logoColor=4ade80)
-![Full Stack](https://img.shields.io/badge/Full_Stack-111827?style=for-the-badge\&logo=stackblitz\&logoColor=4ade80)
-![IADE](https://img.shields.io/badge/IADE-111827?style=for-the-badge\&logo=googlescholar\&logoColor=4ade80)
+![Unity](https://img.shields.io/badge/Unity-0f172a?style=for-the-badge\&logo=unity\&logoColor=60a5fa)
+![Full Stack](https://img.shields.io/badge/Full_Stack-0f172a?style=for-the-badge\&logo=stackblitz\&logoColor=60a5fa)
+![IADE](https://img.shields.io/badge/IADE-0f172a?style=for-the-badge\&logo=googlescholar\&logoColor=60a5fa)
 
 </div>
 
@@ -40,7 +40,7 @@ I enjoy the space where **code and creativity meet** — building gameplay syste
 
 <div align="center">
 
-![Coming soon](https://img.shields.io/badge/Projects-coming_soon-111827?style=for-the-badge\&logo=rocket\&logoColor=4ade80)
+![Coming soon](https://img.shields.io/badge/Projects-coming_soon-0f172a?style=for-the-badge\&logo=rocket\&logoColor=60a5fa)
 
 </div>
 
@@ -49,7 +49,7 @@ I enjoy the space where **code and creativity meet** — building gameplay syste
 
 <div align="center">
   <a href="https://github.com/Jessidy/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jessidy&repo=REPO_NAME&theme=transparent&title_color=4ade80&text_color=d1d5db&icon_color=4ade80&border_color=1f2937&bg_color=111827" alt="REPO_NAME" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jessidy&repo=REPO_NAME&theme=transparent&title_color=60a5fa&text_color=dbeafe&icon_color=60a5fa&border_color=1e3a8a&bg_color=0f172a" alt="REPO_NAME" />
   </a>
 </div>
 -->
@@ -60,17 +60,17 @@ I enjoy the space where **code and creativity meet** — building gameplay syste
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jessidy&show_icons=true&hide_border=false&border_color=1f2937&bg_color=111827&title_color=4ade80&icon_color=4ade80&text_color=d1d5db&ring_color=4ade80&border_radius=12" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jessidy&show_icons=true&hide_border=false&border_color=1e3a8a&bg_color=0f172a&title_color=60a5fa&icon_color=60a5fa&text_color=dbeafe&ring_color=2563eb&border_radius=12" alt="GitHub stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessidy&layout=compact&langs_count=8&border_color=1f2937&bg_color=111827&title_color=4ade80&text_color=d1d5db&border_radius=12" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Jessidy&background=111827&border=1f2937&stroke=1f2937&ring=4ade80&fire=22c55e&currStreakNum=d1d5db&sideNums=d1d5db&currStreakLabel=4ade80&sideLabels=9ca3af&dates=6b7280&border_radius=12" alt="GitHub streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessidy&layout=compact&langs_count=8&border_color=1e3a8a&bg_color=0f172a&title_color=60a5fa&text_color=dbeafe&border_radius=12" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jessidy&bg_color=111827&color=4ade80&line=22c55e&point=ffffff&area=true&area_color=14532d&hide_border=true&radius=12" alt="Activity graph" />
+<img src="https://streak-stats.demolab.com?user=Jessidy&background=0f172a&border=1e3a8a&stroke=1e3a8a&ring=2563eb&fire=60a5fa&currStreakNum=dbeafe&sideNums=dbeafe&currStreakLabel=60a5fa&sideLabels=93c5fd&dates=64748b&border_radius=12" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jessidy&bg_color=0f172a&color=60a5fa&line=2563eb&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&radius=12" alt="Activity graph" />
 
 </div>
 
@@ -95,25 +95,19 @@ I enjoy the space where **code and creativity meet** — building gameplay syste
 <div align="center">
 
 <a href="https://github.com/Jessidy">
-  <img src="https://img.shields.io/badge/GitHub-Jessidy-111827?style=for-the-badge&logo=github&logoColor=4ade80" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Jessidy-0f172a?style=for-the-badge&logo=github&logoColor=60a5fa" alt="GitHub" />
 </a>
 
 <a href="https://instagram.com/Jessiidy">
-  <img src="https://img.shields.io/badge/Instagram-Jessiidy-111827?style=for-the-badge&logo=instagram&logoColor=4ade80" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-Jessiidy-0f172a?style=for-the-badge&logo=instagram&logoColor=60a5fa" alt="Instagram" />
 </a>
 
 <a href="https://tiktok.com/@jessidyy">
-  <img src="https://img.shields.io/badge/TikTok-jessidyy-111827?style=for-the-badge&logo=tiktok&logoColor=4ade80" alt="TikTok" />
+  <img src="https://img.shields.io/badge/TikTok-jessidyy-0f172a?style=for-the-badge&logo=tiktok&logoColor=60a5fa" alt="TikTok" />
 </a>
 
 <a href="https://x.com/Jessiidy">
-  <img src="https://img.shields.io/badge/X-Jessiidy-111827?style=for-the-badge&logo=x&logoColor=4ade80" alt="X" />
+  <img src="https://img.shields.io/badge/X-Jessiidy-0f172a?style=for-the-badge&logo=x&logoColor=60a5fa" alt="X" />
 </a>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:22c55e,50:14532d,100:0f172a&section=footer&text=building%20ga
