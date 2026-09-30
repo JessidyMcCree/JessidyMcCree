@@ -92,16 +92,6 @@ I like the space where code and creativity meet: building interactive worlds and
 
 ---
 
-## ✦ Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jessidy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
-
-</div>
-
----
-
 ## ✦ Contribution snake
 
 <div align="center">
