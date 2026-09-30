@@ -1,18 +1,140 @@
-# 💫 About Me:
-👋 Hi, I’m Jessi I’m passionate about creating games and exploring game development. I study game design, programming, and interactive systems, and I love turning ideas into fun gameplay experiences. Here you’ll find my projects, prototypes, and experiments as I grow as a developer.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4f8cff,55:a98bff,100:ff7ac6&text=J%C3%A9ssica%20Soares&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Games%20Development%20%C2%B7%20IADE&descSize=18&descAlignY=58&animation=fadeIn" alt="Jéssica Soares banner" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jessiidy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Xikazu) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jessidyy) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Jeessidy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jessiidy) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=8FB4FF&center=true&vCenter=true&width=560&height=40&lines=Games+Development+student+%40+IADE;Unity+%C2%B7+Full+Stack+Development;Learning%2C+building%2C+shipping+%E2%9C%A8" alt="Typing animation" />
+</a>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jessidy&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Jessidy&theme=catppuccin_mocha&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jessidy&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+![Unity](https://img.shields.io/badge/Unity-0d1030?style=for-the-badge&logo=unity&logoColor=8fb4ff)
+![Full Stack](https://img.shields.io/badge/Full_Stack-0d1030?style=for-the-badge&logo=stackblitz&logoColor=ff7ac6)
+![IADE](https://img.shields.io/badge/IADE-0d1030?style=for-the-badge&logo=googlescholar&logoColor=8fb4ff)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Jessidy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✦ About me
+
+Hi, I'm **Jéssica** 👋
+I'm a **Games Development** student at **IADE**, working with **Unity** and **full stack development**.
+
+I like the space where code and creativity meet: building interactive worlds and the systems that hold them together.
+
+<!--
+  Add your own lines here, for example:
+  🔭 Currently working on: ...
+  🌱 Currently learning: ...
+  🎮 Favorite games: ...
+  💬 Ask me about: ...
+-->
+
+---
+
+## ✦ Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=unity,cs,git,github&theme=dark" alt="Tech stack" />
+
+</div>
+
+<!--
+  Add your full stack tools to the icon list above, separated by commas.
+  Examples: html,css,js,ts,react,nodejs,express,mongodb,postgres,mysql,figma,blender
+  All names: https://github.com/tandpfun/skill-icons#icons-list
+-->
+
+---
+
+## ✦ Projects
+
+<div align="center">
+
+![Coming soon](https://img.shields.io/badge/Projects-coming_soon-0d1030?style=for-the-badge&logo=rocket&logoColor=ff7ac6)
+
+</div>
+
+<!--
+  When you have projects, replace the badge above with cards like this
+  (change REPO_NAME, repeat for each project):
+
+<div align="center">
+  <a href="https://github.com/Jessidy/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jessidy&repo=REPO_NAME&theme=transparent&title_color=8fb4ff&text_color=c9d1ff&icon_color=ff7ac6&border_color=2a2f6b&bg_color=0d1030" alt="REPO_NAME" />
+  </a>
+  <a href="https://github.com/Jessidy/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jessidy&repo=REPO_NAME_2&theme=transparent&title_color=8fb4ff&text_color=c9d1ff&icon_color=ff7ac6&border_color=2a2f6b&bg_color=0d1030" alt="REPO_NAME_2" />
+  </a>
+</div>
+-->
+
+---
+
+## ✦ GitHub stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jessidy&show_icons=true&hide_border=false&border_color=2a2f6b&bg_color=0d1030&title_color=8fb4ff&icon_color=ff7ac6&text_color=c9d1ff&ring_color=ff7ac6&border_radius=12" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessidy&layout=compact&langs_count=8&border_color=2a2f6b&bg_color=0d1030&title_color=8fb4ff&text_color=c9d1ff&border_radius=12" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Jessidy&background=0d1030&border=2a2f6b&stroke=2a2f6b&ring=ff7ac6&fire=ff7ac6&currStreakNum=c9d1ff&sideNums=c9d1ff&currStreakLabel=8fb4ff&sideLabels=8fb4ff&dates=7f86c7&border_radius=12" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jessidy&bg_color=0d1030&color=8fb4ff&line=ff7ac6&point=ffffff&area=true&area_color=ff7ac6&hide_border=true&radius=12" alt="Activity graph" />
+
+</div>
+
+---
+
+## ✦ Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jessidy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## ✦ Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jessidy/Jessidy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jessidy/Jessidy/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Jessidy/Jessidy/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## ✦ Let's connect
+
+<div align="center">
+
+<a href="https://github.com/Jessidy">
+  <img src="https://img.shields.io/badge/GitHub-Jessidy-0d1030?style=for-the-badge&logo=github&logoColor=8fb4ff" alt="GitHub" />
+</a>
+
+<!--
+  Uncomment and fill in when you have them:
+
+<a href="LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1030?style=for-the-badge&logo=linkedin&logoColor=8fb4ff" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/INSTAGRAM_USERNAME/">
+  <img src="https://img.shields.io/badge/Instagram-0d1030?style=for-the-badge&logo=instagram&logoColor=ff7ac6" alt="Instagram" />
+</a>
+-->
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4f8cff,55:a98bff,100:ff7ac6&section=footer&text=made%20with%20curiosity%20%26%20a%20little%20stardust&fontColor=ffffff&fontSize=16&fontAlignY=68" alt="Footer" width="100%" />
