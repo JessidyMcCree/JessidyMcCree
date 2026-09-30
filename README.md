@@ -70,7 +70,6 @@ I enjoy the space where **code and creativity meet** — building gameplay syste
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jessidy&bg_color=0f172a&color=60a5fa&line=2563eb&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&radius=12" alt="Activity graph" />
 
 </div>
 
@@ -105,14 +104,6 @@ I enjoy the space where **code and creativity meet** — building gameplay syste
 
 <a href="https://github.com/Jessidy">
   <img src="https://img.shields.io/badge/GitHub-Jessidy-0f172a?style=for-the-badge&logo=github&logoColor=60a5fa" alt="GitHub" />
-</a>
-
-<a href="https://instagram.com/Jessiidy">
-  <img src="https://img.shields.io/badge/Instagram-Jessiidy-0f172a?style=for-the-badge&logo=instagram&logoColor=60a5fa" alt="Instagram" />
-</a>
-
-<a href="https://tiktok.com/@jessidyy">
-  <img src="https://img.shields.io/badge/TikTok-jessidyy-0f172a?style=for-the-badge&logo=tiktok&logoColor=60a5fa" alt="TikTok" />
 </a>
 
 <a href="https://x.com/Jessiidy">
