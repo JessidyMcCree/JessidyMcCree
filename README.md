@@ -40,18 +40,12 @@ I’m passionate about creating games and exploring game development. I study ga
 ![Coming soon](https://img.shields.io/badge/Projects-coming_soon-0f172a?style=for-the-badge\&logo=rocket\&logoColor=60a5fa)
 
 </div>
-
-
-  When you have projects, replace the badge above with your featured projects.
-
 <div align="center">
   <a href="https://github.com/Jessidy/REPO_NAME">
   <a href="https://github.com/JessidyMcCree/Jessidy-Optimizer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JessidyMcCree&repo=Jessidy-Optimizer&theme=transparent&title_color=60a5fa&text_color=dbeafe&icon_color=60a5fa&border_color=1e3a8a&bg_color=0f172a" alt="Jessidy Optimizer" />
 </a>
 </div>
-
-
 ---
 
 ## ✦ GitHub stats
