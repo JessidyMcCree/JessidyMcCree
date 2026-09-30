@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,55:1e3a8a,100:2563eb&text=J%C3%A9ssica%20Soares&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Games%20Development%20%C2%B7%20IADE&descSize=18&descAlignY=58&animation=fadeIn" alt="Jéssica Soares banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=560&height=40&lines=Games+Development+student+%40+IADE;Unity+%C2%B7+Full+Stack+Development;Learning%2C+building%2C+shipping+%E2%9C%A8" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=560&height=40&lines=Games+Development+student+%40+IADE;Unity+%C2%B7+Full+Stack+Development;Programming%2C+Sleeping%2C+Gaming+%E2%9C%A8" alt="Typing animation" />
 </a>
 
 <br/>
