@@ -37,7 +37,7 @@ I’m passionate about creating games and exploring game development. I study ga
 
 <div align="center">
 
-![Coming soon](https://img.shields.io/badge/Projects-coming_soon-0f172a?style=for-the-badge\&logo=rocket\&logoColor=60a5fa)
+![Current Projects](https://img.shields.io/badge/Projects-coming_soon-0f172a?style=for-the-badge\&logo=rocket\&logoColor=60a5fa)
 
 </div>
 <div align="center">
