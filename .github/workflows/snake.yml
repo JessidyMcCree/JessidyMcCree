@@ -5,7 +5,8 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -13,15 +14,19 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=22c55e&color_dots=f1f5f9,dcfce7,bbf7d0,86efac,22c55e
-            dist/github-snake-dark.svg?color_snake=4ade80&color_dots=0f172a,14532d,166534,22c55e,4ade80
+    timeout-minutes: 10
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+    steps:
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Jessidy
+          outputs: |
+            dist/github-snake.svg?color_snake=2563eb&color_dots=f1f5f9,dbeafe,93c5fd,3b82f6,1d4ed8
+            dist/github-snake-dark.svg?color_snake=60a5fa&color_dots=0f172a,172554,1e3a8a,2563eb,60a5fa
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
