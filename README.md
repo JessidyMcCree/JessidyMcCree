@@ -81,8 +81,8 @@ I enjoy the space where **code and creativity meet** — building gameplay syste
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jessidy/Jessidy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jessidy/Jessidy/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JessidyMcCree/JessidyMcCree/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JessidyMcCree/JessidyMcCree/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Jessidy/Jessidy/output/github-snake-dark.svg" />
 </picture>
 
