@@ -19,10 +19,7 @@
 ## ✦ About me
 
 Hi, I'm **Jéssica** 👋
-
-I'm a **Games Development** student at **IADE**, focused on **game development, programming and interactive systems**.
-
-I enjoy the space where **code and creativity meet** — building gameplay systems, interactive worlds and experimenting with new ideas.
+I’m passionate about creating games and exploring game development. I study game design, programming, and interactive systems, and I love turning ideas into fun gameplay experiences. Here you’ll find my projects, prototypes, and experiments as I grow as a developer.
 
 ---
 
